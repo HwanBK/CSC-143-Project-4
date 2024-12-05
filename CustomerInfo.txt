@@ -1,0 +1,17 @@
+Last name, first name, phone number, balance
+Little, Angelica, 864-938-3740, 1202.20
+Neale, Marcia, 846-521-8463, -1400.45
+Fisher, Lennon, 168-843-7843, 2.95
+Little, Lorelai, 489-158-8354, 323.11
+Henson, Chris, 796-285-8168, 8488.32
+Cannon, Mathias, 489-518-8466, 348.39
+Cannon, Nikki, 789-453-6338, 84899.21
+O'Connor, Tara, 366-343-8338, -34942902932.43
+Little, Steve, 864-938-3741, 32.34
+Blevins, Austin, 684-838-9634, 493.23
+Rutledge, Julie, 418-833-8348, 9489.12
+Wilson, Brenna, 168-846-1836, 4868.23
+Wilson, Brandon, 868-468-4882, 1022.34
+Wilson, Stuart, 846-247-1886, 15.02
+Thorpe, Sadie, 468-853-1358, 30.23
+Porter, Maisy, 186-868-3885, 230.43
